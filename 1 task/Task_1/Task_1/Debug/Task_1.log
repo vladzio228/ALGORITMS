@@ -1,0 +1,7 @@
+﻿  Task_1.cpp
+C:\Users\User\Desktop\Універ\3 курс\Алго\1 task\Task_1\Task_1\Task_1.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Універ\3 курс\Алго\1 task\Task_1\Task_1\Task_1.cpp(21,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Універ\3 курс\Алго\1 task\Task_1\Task_1\Task_1.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Універ\3 курс\Алго\1 task\Task_1\Task_1\Task_1.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Універ\3 курс\Алго\1 task\Task_1\Task_1\Task_1.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+  Task_1.vcxproj -> C:\Users\User\Desktop\Універ\3 курс\Алго\1 task\Task_1\Debug\Task_1.exe
